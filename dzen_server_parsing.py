@@ -66,17 +66,6 @@ def fill_dict (soup, link):
 
         
 
-
-
-
-
-
-
-
-
-
-
-
 def open_window (url):
     print("start_parse")
 
@@ -170,9 +159,9 @@ if __name__ == '__main__':
 
 
     links_for_parse_from_dzen = [
-        # "https://dzen.ru/your_name_of_chenel",
-        # "https://dzen.ru/your_name_of_chenel",
-        # "https://dzen.ru/your_name_of_chenel",
+        # "https://dzen.ru/your_name_of_channel",
+        # "https://dzen.ru/your_name_of_channel",
+        # "https://dzen.ru/your_name_of_channel",
     ]
 
     for link in links_for_parse_from_dzen:
