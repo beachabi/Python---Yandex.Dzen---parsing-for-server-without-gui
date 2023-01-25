@@ -6,11 +6,11 @@ It's Yandex.Dzen parsing, you can parse all html's articles from any DZEN channe
 
 ## How is it work?
 ### 1. You should write your channel's links inside list on line 172
-   for example
-    links_for_parse_from_dzen = [
-        "https://dzen.ru/your_name_of_chenel",
-        "https://dzen.ru/your_name_of_chenel",
-        "https://dzen.ru/your_name_of_chenel",
+   for example \
+    links_for_parse_from_dzen = [ \
+        "https://dzen.ru/your_name_of_channel",
+        "https://dzen.ru/your_name_of_channel",
+        "https://dzen.ru/your_name_of_channel", \
     ]
 ### 2. Install chrome if you do't have him
 ### 3. Install necessary libs
